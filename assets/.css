@@ -1,0 +1,22 @@
+{
+    font-family: "Garamond", "Gill Sans", "Georgia", sans-serif;
+}
+
+body {
+    background-color: darkolivegreen;
+    color: goldenrod;
+}
+
+.image {
+    width: 15%;
+    height: 15%
+}
+
+h2 {
+    color: darkslateblue;
+}
+
+h3 {
+    color: lightslategray;
+}
+
