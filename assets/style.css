@@ -2,21 +2,51 @@
     font-family: "Garamond", "Gill Sans", "Georgia", sans-serif;
 }
 
+header {
+    height: 150px;
+    background-color: darkslategray;
+}
+
 body {
     background-color: darkolivegreen;
     color: goldenrod;
+    align-content: center;
+}
+
+section {
+    text-align: center;
 }
 
 .image {
     width: 15%;
     height: 15%
+    
 }
 
+h1 {
+    text-align: end;
+    font-size: 50px;
+    line-height: normal;
+}
 h2 {
     color: darkslateblue;
+    font-size: 35px;
 }
 
 h3 {
     color: lightslategray;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: end;
+}
+footer {
+    height: 200px;
+    background-color: darkslategray;
+    font-size: 15px;
+    font-style: italic;
+    
 }
 
