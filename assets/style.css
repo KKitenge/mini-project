@@ -13,7 +13,12 @@ body {
     align-content: center;
 }
 
+header {
+    background-color: darkslategray;
+}
+
 section {
+    background-color: darkolivegreen;
     text-align: center;
 }
 
@@ -24,7 +29,7 @@ section {
 }
 
 h1 {
-    text-align: end;
+    text-align: right;
     font-size: 50px;
     line-height: normal;
 }
@@ -43,7 +48,7 @@ h4 {
     text-align: end;
 }
 footer {
-    height: 200px;
+    height: 80px;
     background-color: darkslategray;
     font-size: 15px;
     font-style: italic;
